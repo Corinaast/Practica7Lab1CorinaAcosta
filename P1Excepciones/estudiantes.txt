@@ -1,0 +1,8 @@
+CODIGO,CEDULA,NOMBRE,CORREO,NIVEL,FECHA
+ID:L00722433,1725049987,Corina Acosta,caacosta7@espe.edu.ec,2,2025-05-16
+ID:L00349000,2100395538,Diana Acosta,dia23@espe.edu.ec,6,2025-05-16
+ID:L00317736,1714256078,Lucia Oliva,jluoli@espe.edu.ec,2,2025-05-16
+ID:L00139190,1722065589,Angelica Moreira,moreirangelica1@espe.edu.ec,8,2025-05-17
+ID:L00350651,1721065582,Melani Oliva,melacor@espe.edu.ec,5,2025-05-17
+ID:L00227521,1714257079,Juan Baquero,jBaquero2@espe.edu.ec,5,2025-05-17
+ID:L00815191,1721065587,Alejandra Acosra,caacosta7@espe.edu.ec,2,2025-05-17
